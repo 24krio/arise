@@ -4,6 +4,7 @@
 
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+
 local Window = Library.CreateLib("Made by Rio", "Made by Rio")
 
 -- Main
@@ -17,6 +18,6 @@ end)
 
 MainSection:NewButton("Auto Click", "fastest auto clicker", function()
 getgenv().key = "Hostile"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Hosvile/The-telligence/main/MC%20KSystem%202"))()", true))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Hosvile/The-telligence/main/MC%20KSystem%202"))()", true))()
 end)
 
