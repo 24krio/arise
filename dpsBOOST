@@ -1,0 +1,17 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("Made by Rio", "Made by Rio")
+
+-- Main
+local Main = Window:NewTab("Main")
+local MainSection = Main:NewSection("Arise Crossover")
+
+
+MainSection:NewButton("Arise Crossover", "Use The No cooldown for weapons and the autoclicker to 4x your dps", function()
+	loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/SKOIXLL/SKYLOLAND/refs/heads/main/Load.lua"))()", true))()
+end)
+
+MainSection:NewButton("Auto Click", "fastest auto clicker", function()
+loadstring(game:HttpGet("getgenv().key = "Hostile"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hosvile/The-telligence/main/MC%20KSystem%202"))()", true))()
+end)
+
